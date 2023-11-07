@@ -4,8 +4,8 @@
     "static/js/0.0debc17e.chunk.js.map": "/uni-swap/static/js/0.0debc17e.chunk.js.map",
     "static/js/1.91f72ac2.chunk.js": "/uni-swap/static/js/1.91f72ac2.chunk.js",
     "static/js/1.91f72ac2.chunk.js.map": "/uni-swap/static/js/1.91f72ac2.chunk.js.map",
-    "main.js": "/uni-swap/static/js/main.77a5d47c.chunk.js",
-    "main.js.map": "/uni-swap/static/js/main.77a5d47c.chunk.js.map",
+    "main.js": "/uni-swap/static/js/main.73a4555f.chunk.js",
+    "main.js.map": "/uni-swap/static/js/main.73a4555f.chunk.js.map",
     "runtime-main.js": "/uni-swap/static/js/runtime-main.c85e323d.js",
     "runtime-main.js.map": "/uni-swap/static/js/runtime-main.c85e323d.js.map",
     "static/css/4.fb3615f5.chunk.css": "/uni-swap/static/css/4.fb3615f5.chunk.css",
@@ -22,7 +22,7 @@
     "static/js/9.82757a51.chunk.js": "/uni-swap/static/js/9.82757a51.chunk.js",
     "static/js/9.82757a51.chunk.js.map": "/uni-swap/static/js/9.82757a51.chunk.js.map",
     "index.html": "/uni-swap/index.html",
-    "precache-manifest.180f788800024bfb14b05e539b59088c.js": "/uni-swap/precache-manifest.180f788800024bfb14b05e539b59088c.js",
+    "precache-manifest.ff29df52457887f01b58d47ab713bce9.js": "/uni-swap/precache-manifest.ff29df52457887f01b58d47ab713bce9.js",
     "service-worker.js": "/uni-swap/service-worker.js",
     "static/css/4.fb3615f5.chunk.css.map": "/uni-swap/static/css/4.fb3615f5.chunk.css.map",
     "static/js/4.447568a1.chunk.js.LICENSE.txt": "/uni-swap/static/js/4.447568a1.chunk.js.LICENSE.txt",
@@ -62,6 +62,6 @@
     "static/js/runtime-main.c85e323d.js",
     "static/css/4.fb3615f5.chunk.css",
     "static/js/4.447568a1.chunk.js",
-    "static/js/main.77a5d47c.chunk.js"
+    "static/js/main.73a4555f.chunk.js"
   ]
 }
